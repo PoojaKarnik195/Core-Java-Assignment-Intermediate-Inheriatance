@@ -1,1 +1,1 @@
-# Core-Java-Assignment-Java-Intermediate-Inheriatance
+# Core-Java-Assignment-Intermediate-Inheriatance
